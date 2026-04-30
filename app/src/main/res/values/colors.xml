@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="fb_bg_deep">#FF070711</color>
+    <color name="fb_bg_start">#FF080712</color>
+    <color name="fb_bg_mid">#FF111827</color>
+    <color name="fb_bg_end">#FF130F25</color>
+    <color name="fb_surface">#FF090B16</color>
+    <color name="fb_surface_alt">#FF171927</color>
+    <color name="fb_surface_alt_2">#FF10121C</color>
+    <color name="fb_panel_start">#EE151827</color>
+    <color name="fb_panel_mid">#EE101322</color>
+    <color name="fb_panel_end">#EE191426</color>
+
+    <color name="fb_board_start">#FF070A18</color>
+    <color name="fb_board_mid_1">#FF17102B</color>
+    <color name="fb_board_mid_2">#FF091B2A</color>
+    <color name="fb_board_end">#FF080A14</color>
+
+    <color name="fb_gold">#FFFFD166</color>
+    <color name="fb_gold_light">#FFFFE8A3</color>
+    <color name="fb_gold_bright">#FFFFF0A8</color>
+    <color name="fb_gold_button">#FFFFC857</color>
+    <color name="fb_gold_dark">#FFD8821E</color>
+    <color name="fb_cyan">#FF4CC9F0</color>
+    <color name="fb_cyan_light">#FF55D6FF</color>
+    <color name="fb_pink">#FFFF5C8A</color>
+    <color name="fb_pink_dark">#FFE85D75</color>
+    <color name="fb_teal">#FF2DD4BF</color>
+    <color name="fb_purple">#FFB86BFF</color>
+    <color name="fb_purple_light">#FFDA9CFF</color>
+    <color name="fb_purple_mid">#FF8C4DDB</color>
+    <color name="fb_purple_dark">#FF4B247E</color>
+    <color name="fb_orange">#FFFF8A3D</color>
+
+    <color name="fb_text_primary">#FFFFFFFF</color>
+    <color name="fb_text_secondary">#FFB8B8CA</color>
+    <color name="fb_text_muted">#FF9EA3B8</color>
+    <color name="fb_text_disabled">#FF6E7080</color>
+    <color name="fb_text_disabled_alt">#FF585A68</color>
+    <color name="fb_text_dark">#FF120D06</color>
+    <color name="fb_text_gold_dark">#FF17120A</color>
+
+    <color name="fb_button_utility_top">#FF30334A</color>
+    <color name="fb_button_utility_mid">#FF202235</color>
+    <color name="fb_button_utility_bottom">#FF11131D</color>
+    <color name="fb_button_disabled_top">#FF333544</color>
+    <color name="fb_button_disabled_mid">#FF252734</color>
+    <color name="fb_button_disabled_bottom">#FF171923</color>
+    <color name="fb_button_dim_top">#FF1D1F2A</color>
+    <color name="fb_button_dim_mid">#FF151722</color>
+    <color name="fb_button_dim_bottom">#FF10111A</color>
+    <color name="fb_border_disabled">#FF3B3D4D</color>
+    <color name="fb_slot_low">#FF6B7280</color>
+
+    <color name="fb_white_04">#0AFFFFFF</color>
+    <color name="fb_white_10">#1AFFFFFF</color>
+    <color name="fb_white_12">#1FFFFFFF</color>
+    <color name="fb_white_14">#24FFFFFF</color>
+    <color name="fb_white_20">#33FFFFFF</color>
+    <color name="fb_white_33">#55FFFFFF</color>
+    <color name="fb_white_44">#70FFFFFF</color>
+    <color name="fb_cyan_13">#224CC9F0</color>
+    <color name="fb_cyan_20">#334CC9F0</color>
+    <color name="fb_cyan_33">#554CC9F0</color>
+    <color name="fb_cyan_light_13">#2255D6FF</color>
+    <color name="fb_cyan_light_53">#8855D6FF</color>
+    <color name="fb_gold_10">#1AFFD166</color>
+    <color name="fb_gold_16">#28FFD166</color>
+    <color name="fb_gold_20">#33FFD166</color>
+    <color name="fb_gold_33">#55FFD166</color>
+    <color name="fb_gold_40">#66FFD166</color>
+    <color name="fb_gold_47">#77FFD166</color>
+    <color name="fb_pink_10">#1AFF5C8A</color>
+    <color name="fb_pink_13">#22FF5C8A</color>
+</resources>

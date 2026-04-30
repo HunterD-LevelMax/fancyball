@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FancyBall</string>
+    <string name="balance_label">Balance</string>
+    <string name="bet_label">Bet</string>
+    <string name="ready_status">Ready</string>
+    <string name="dropping_status">DROPPING</string>
+    <string name="drop_ball_button">DROP BALL</string>
+    <string name="reset_button">RESET</string>
+    <string name="bet_minus_five">-5</string>
+    <string name="bet_plus_five">+5</string>
+    <string name="money_amount">$%1$d</string>
+    <string name="plus_money_amount">+$%1$d</string>
+    <string name="win_result_format">Win %1$s / +$%2$d</string>
+    <string name="no_win_result">No win this round</string>
+    <string name="loading_title">FancyBall</string>
+    <string name="loading_tagline">FANCY PLINKO EXPERIENCE</string>
+    <string name="loading_subtitle">Loading game</string>
+    <string name="loading_percent_format">Loading game · %1$d%%</string>
+</resources>
